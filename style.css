@@ -106,6 +106,7 @@ ul{
 div.video{
     background-color: var(--cor5);
     padding: 20px;
+    padding-left: 50px;
     
     margin: 0px -20px 30px 0px;
     position: relative;
